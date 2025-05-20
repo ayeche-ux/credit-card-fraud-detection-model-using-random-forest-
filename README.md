@@ -16,6 +16,7 @@ This project implements a machine learning model to detect fraudulent credit car
 
 3-Requirements
   - Python 3.x
+    
   -pandas
   - numpy
   - scikit-learn
