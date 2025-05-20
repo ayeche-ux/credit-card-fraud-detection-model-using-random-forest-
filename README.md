@@ -10,9 +10,9 @@ This project implements a machine learning model to detect fraudulent credit car
   - Feature importance visualization
 - 
 2- How to use
-  2.1. Clone this repository
-  2.2. Open the notebook in Jupyter or Google Colab
-  2.3. Run the cells sequentially to reproduce the results
+  - Clone this repository
+  - Open the notebook in Jupyter or Google Colab
+   - Run the cells sequentially to reproduce the results
 
 3-Requirements
   - Python 3.x
